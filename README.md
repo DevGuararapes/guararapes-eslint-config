@@ -22,4 +22,4 @@ npm i -D eslint @guararapes/eslint-config
 }
 ```
 
-> You can also use a `.eslintrc.js` instead of JSON if you prefer.
+3. Reload VSCode
